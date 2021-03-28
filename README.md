@@ -1,4 +1,0 @@
-# IGTI
-Bootcamp IGTI
-
-
